@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private val usernameKey = "username"
     private val passworkKey = "passwork"
     private val passworkKey2 = "passwork"
+    private val passworkKey3 = "passwork"
 
     private lateinit var et_username:EditText
     private lateinit var et_password:EditText
