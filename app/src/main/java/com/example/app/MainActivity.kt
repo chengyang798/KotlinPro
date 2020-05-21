@@ -20,8 +20,11 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     private val usernameKey = "username"
     private val passworkKey = "passwork"
+<<<<<<< HEAD
     private val passworkKey2 = "passwork"
     private val passworkKey3 = "passwork"
+=======
+>>>>>>> parent of e71f9f9... 提交1
 
     private lateinit var et_username:EditText
     private lateinit var et_password:EditText
