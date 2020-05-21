@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var et_password:EditText
     private lateinit var et_code:EditText
     private lateinit var et_code1:EditText
+    private lateinit var et_code2:EditText
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
